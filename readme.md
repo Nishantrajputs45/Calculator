@@ -1,6 +1,6 @@
 ## What to build
 
-we have to build Accordion.
+we have to build CALCULATOR.
 
 ## Input
 
